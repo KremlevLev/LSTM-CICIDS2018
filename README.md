@@ -1,6 +1,6 @@
 # Network Intrusion Detection System (NIDS) using LSTM
 
-This project implements a Deep Learning model to detect network intrusions using the **CIC-IDS-2018** dataset. The model is built with **PyTorch** and leverages an **LSTM** architecture to classify network traffic.
+This project implements a Deep Learning model to detect network intrusions using the **CIC-IDS-2018** dataset. The model is built with **PyTorch** and leverages an **LSTM** architecture to classify network traffic
 
 ##  Key Features
 *   **Large-scale Data Handling:** Implemented efficient data loading and memory optimization (downcasting, sampling, and garbage collection) to process massive CSV files within Kaggle's RAM limits.
